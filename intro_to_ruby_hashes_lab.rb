@@ -15,10 +15,6 @@ def monopoly_with_second_tier
     :rent_in_dollars => {},
     :names => {}
   }
-  bash_hash(hash)
-  
- 
-
 end
 
 def monopoly_with_third_tier
